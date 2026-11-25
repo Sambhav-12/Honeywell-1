@@ -1,0 +1,6 @@
+{
+  "name": "Honeywell Future Skills Edge — Certificate Verification",
+  "description": "Certificate verification portal for the Honeywell Future Skills Edge CSR initiative implemented by BharatCares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
